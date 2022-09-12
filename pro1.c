@@ -2,7 +2,7 @@
 #include <math.h>
 
 float check(float x){
-	float ans = x*x-5*x+1;
+	float ans = x*x*x-5*x+1;
     return ans;
 }
 
