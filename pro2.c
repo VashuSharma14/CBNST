@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-#define f(x) x*x*x-1
+#define f(x) x*x*x-18
 #define d 1000
 int check(double a,double b){
     int n1=a*d;
